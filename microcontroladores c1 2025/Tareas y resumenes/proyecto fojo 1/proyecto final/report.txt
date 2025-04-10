@@ -1,0 +1,1 @@
+Cambiar el símbolo R18 de 'Device:R_Shunt_US' a 'Device:R_Shunt_US': OK
